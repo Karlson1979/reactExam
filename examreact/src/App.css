@@ -1,0 +1,51 @@
+input{
+    width: 300px;
+    height: 30px;
+    border: 1px solid #0077ff;
+    border-radius: 10px;
+    font-size: medium;
+    /* background: rgb(21, 176, 237); */
+    
+ 
+  
+}
+button{
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    margin-left: 10px;
+    background: #245cde;
+    color: white
+
+   
+}
+h1{
+    text-align: center;
+    color: white;
+}
+.card{
+    width: 200px;
+    height: auto;
+    border: 1px solid rgb(21, 190, 237);
+    border-radius: 10px; 
+    margin: 10px;
+    text-align: center;
+    
+
+   
+ 
+
+}
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    justify-content: center;
+}
+.search-container {
+    text-align: center; 
+    margin-top: 20px; 
+  }
+  p{
+    color: #060e20;
+  }
